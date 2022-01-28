@@ -29,4 +29,4 @@ def main():
     print(ave2)
 
 if __name__ == '__main__':
-    main()
+    main() # 取り敢えずできた
